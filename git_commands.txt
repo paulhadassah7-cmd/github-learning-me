@@ -1,0 +1,17 @@
+
+    1  python gitler.py
+    2  git status
+    3  git rm --cached gitler.py
+    4  git status
+    5  git add gitler.py
+    6  git status
+    7  git commit -m "added tesing file"
+    8  git status
+    9  rm gitler.py
+   10  git status
+   11  git restore gitler.py
+   12  git status
+   13  touch git_commands.txt
+   14  history
+
+   my token -: 
