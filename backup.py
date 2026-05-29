@@ -1,0 +1,2 @@
+love = "iloveu"
+print(love)
